@@ -11,7 +11,7 @@ def mainmenu():
     <body>
     <center><h1>Hello World! from AWS CodeDeploy.</h1><br/>
     <h2>Maho Yamamoto</h2>
-    <h3>パイプラインできたよ</h3>
+    <h3>pipeline</h3>
     </body>
     </html>"""
 
